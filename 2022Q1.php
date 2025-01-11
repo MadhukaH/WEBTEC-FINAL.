@@ -3,4 +3,5 @@
 
     $_input = "INSERT INTO emp_db (Employee_ID, NIC, Title, First_Name, Last_Name, Gender, Date_of_Birth, Age, Salary) 
     VALUES ('$empId', '$nic', '$title', '$firstName', '$lastName', '$gender', '$DateOfBirth', '$age', '$salary')";
+    //පුක දෙන්න එ​පා
 ?>
